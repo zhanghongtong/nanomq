@@ -14,7 +14,7 @@ Nano MQTT Broker - A Ultra-light and Blazing-fast MQTT 5.0 Broker for IoT Edge.
 
 ## Architecture
 
-![NanoMQ](docs/NanoMQ.jpeg)
+![NanoMQ](./docs/NanoMQ.jpeg)
 
 # Author
 
